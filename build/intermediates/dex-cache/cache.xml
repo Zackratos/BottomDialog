@@ -3,120 +3,12 @@
 
     <item
         is-multidex="false"
-        jar="C:\Users\xiboke\.android\build-cache\43486097ffa4a69fa93f208d3595d667945031f9\output\jars\classes.jar"
+        jar="/media/zack/FAA2F816A2F7D4DB/MyAndroidProjects/BottomDialog/bottomdialog/build/intermediates/bundles/default/classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="26.0.2"
-        sha1="952944218ecedea1554a513dec0c14d570642843">
-        <dex dex="D:\GithubProjects\BottomDialog\sample\build\intermediates\pre-dexed\debug\classes_989f8b2375d81e59c31686633c95876742dd44de.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\xiboke\.android\build-cache\7f8ebecc5416da0ef42f653091d092fbbb104df3\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.2"
-        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
-        <dex dex="D:\GithubProjects\BottomDialog\sample\build\intermediates\pre-dexed\debug\classes_a66aba423180156138c9daf911a9359b441a101f.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\xiboke\.android\build-cache\d2e91f53599a6f7774fb988aefa4e503a23cc5d3\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.2"
-        sha1="9935891f23923f39d002087085d9696568a9f657">
-        <dex dex="D:\GithubProjects\BottomDialog\sample\build\intermediates\pre-dexed\debug\classes_9840755cbffdf1fd88eb64106443e437843cd0e9.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\xiboke\.android\build-cache\49de3e9741d160c1634f1d881cdaf758e91c83b8\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.2"
-        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
-        <dex dex="D:\GithubProjects\BottomDialog\sample\build\intermediates\pre-dexed\debug\classes_171723203fec657e0dac26d60d8b3e03ecf13fe5.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\xiboke\.android\build-cache\2335930d82aa4101baf2eb20b24eda27ad0b9de4\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.2"
-        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
-        <dex dex="D:\GithubProjects\BottomDialog\sample\build\intermediates\pre-dexed\debug\classes_d7304de73829601d72dec0a29b333f611049923f.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\xiboke\.android\build-cache\d871577ed42a2503b6484edbb01c1e050862bdb4\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.2"
-        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
-        <dex dex="D:\GithubProjects\BottomDialog\sample\build\intermediates\pre-dexed\debug\classes_6a2d0b8208fbf0889b237ddc0e958cf463e95264.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\AndroidDevelopTools\AndroidSDK\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.2"
-        sha1="023ee503b631f69511e335a061ea008f8da60f40">
-        <dex dex="D:\GithubProjects\BottomDialog\sample\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_d57a706d0f09b7b3075791e855745dc713f13d09.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\xiboke\.android\build-cache\bb78cd44bf752611547ac95ba6592071475fab3e\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="D:\GithubProjects\BottomDialog\sample\build\intermediates\pre-dexed\debug\classes_8cbe41930e415b2b71c0171a07be967274910208.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\xiboke\.android\build-cache\b5e0fb6985fa9b5fc982854cd27710b6948bbac6\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.2"
-        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
-        <dex dex="D:\GithubProjects\BottomDialog\sample\build\intermediates\pre-dexed\debug\classes_41561738a49e99faca2224525c365ffb92fd9f2d.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\AndroidDevelopTools\AndroidSDK\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.2"
-        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
-        <dex dex="D:\GithubProjects\BottomDialog\sample\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_29a28728745823428d57d07723247cf59130cf29.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\xiboke\.android\build-cache\479bd2334e6eca5d7d79b713399d89d8aa295602\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.2"
-        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
-        <dex dex="D:\GithubProjects\BottomDialog\sample\build\intermediates\pre-dexed\debug\classes_c3e8f93b191628879f4673af069c69425afe6dd7.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\GithubProjects\BottomDialog\bottomdialog\build\intermediates\bundles\default\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.2"
+        revision="26.0.1"
         sha1="74533e1262a906618066226707ef2a11c3094299">
-        <dex dex="D:\GithubProjects\BottomDialog\sample\build\intermediates\pre-dexed\debug\classes_0c708b189994063d979e3d082e6bf2ecbd234789.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\xiboke\.android\build-cache\699abad31e46b7b5d26b6ff418e930558f94fca1\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.2"
-        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
-        <dex dex="D:\GithubProjects\BottomDialog\sample\build\intermediates\pre-dexed\debug\classes_96c185f833938750f48e3b41f275f005c46fdd10.jar" />
+        <dex dex="/media/zack/FAA2F816A2F7D4DB/MyAndroidProjects/BottomDialog/sample/build/intermediates/pre-dexed/debug/classes_00196242e9e8bde96d09cc39556b228c4aaea75c.jar" />
     </item>
 
 </items>
