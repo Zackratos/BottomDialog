@@ -90,8 +90,6 @@
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/symbols" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/transforms" />
       <excludeFolder url="file://$MODULE_DIR$/build/outputs" />
-      <excludeFolder url="file://$MODULE_DIR$/build/reports" />
-      <excludeFolder url="file://$MODULE_DIR$/build/test-results" />
       <excludeFolder url="file://$MODULE_DIR$/build/tmp" />
     </content>
     <orderEntry type="jdk" jdkName="Android API 26 Platform" jdkType="Android SDK" />
@@ -121,6 +119,6 @@
     <orderEntry type="library" exported="" name="support-compat-26.0.0-alpha1" level="project" />
     <orderEntry type="library" exported="" name="support-annotations-26.0.0-alpha1" level="project" />
     <orderEntry type="library" exported="" name="animated-vector-drawable-26.0.0-alpha1" level="project" />
-    <orderEntry type="module" module-name="bottomdialog" exported="" />
+    <orderEntry type="module" module-name="library" exported="" />
   </component>
 </module>

@@ -3,12 +3,12 @@
 
     <item
         is-multidex="false"
-        jar="/media/zack/FAA2F816A2F7D4DB/MyAndroidProjects/BottomDialog/bottomdialog/build/intermediates/bundles/default/classes.jar"
+        jar="D:\GithubProjects\BottomDialog\library\build\intermediates\bundles\default\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.1"
-        sha1="74533e1262a906618066226707ef2a11c3094299">
-        <dex dex="/media/zack/FAA2F816A2F7D4DB/MyAndroidProjects/BottomDialog/sample/build/intermediates/pre-dexed/debug/classes_00196242e9e8bde96d09cc39556b228c4aaea75c.jar" />
+        sha1="68a8ddc30ff2379dd0962a8a8eb7e3148b225576">
+        <dex dex="D:\GithubProjects\BottomDialog\sample\build\intermediates\pre-dexed\debug\classes_70e9891fe0eb1f35c733f6d0cf7d2727917b45b7.jar" />
     </item>
 
 </items>

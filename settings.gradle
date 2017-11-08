@@ -1,1 +1,1 @@
-include ':sample', ':bottomdialog'
+include ':sample', ':library'
