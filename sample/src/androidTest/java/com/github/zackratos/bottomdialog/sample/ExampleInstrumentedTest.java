@@ -1,4 +1,4 @@
-package com.github.bottomdialog.library;
+package com.github.zackratos.bottomdialog.sample;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("org.zackratos.bottom.test", appContext.getPackageName());
+        assertEquals("org.zackratos.test.sample", appContext.getPackageName());
     }
 }

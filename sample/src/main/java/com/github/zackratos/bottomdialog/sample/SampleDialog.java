@@ -1,10 +1,10 @@
-package com.github.bottomdialog.library.sample;
+package com.github.zackratos.bottomdialog.sample;
 
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.github.bottomdialog.library.BottomDialog;
+import com.github.zackratos.bottomdialog.library.BottomDialog;
 
 /**
  *

@@ -1,4 +1,4 @@
-package com.github.bottomdialog.library;
+package com.github.zackratos.bottomdialog.sample;
 
 import org.junit.Test;
 

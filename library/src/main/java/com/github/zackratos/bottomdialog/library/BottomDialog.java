@@ -1,4 +1,4 @@
-package com.github.bottomdialog.library;
+package com.github.zackratos.bottomdialog.library;
 
 import android.os.Bundle;
 import android.support.annotation.Nullable;

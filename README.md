@@ -8,7 +8,7 @@
 ## 使用方法
 1.gradle
 ```
-compile 'com.github.zackratos.bottomdialog:bottomdialog:1.0.1'
+compile 'com.github.zackratos.bottomdialog:bottomdialog:1.0.2'
 ```
 
 2.自定义 DialogFragment 继承自 BottomDialog,重写 createView 方法
