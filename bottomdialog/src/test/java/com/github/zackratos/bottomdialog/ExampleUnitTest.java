@@ -1,4 +1,4 @@
-package com.github.zackratos.bottomdialog.library;
+package com.github.zackratos.bottomdialog;
 
 import org.junit.Test;
 

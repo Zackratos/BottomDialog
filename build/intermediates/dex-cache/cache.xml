@@ -3,12 +3,12 @@
 
     <item
         is-multidex="false"
-        jar="D:\GithubProjects\BottomDialog\library\build\intermediates\bundles\default\classes.jar"
+        jar="D:\GithubProjects\BottomDialog\bottomdialog\build\intermediates\bundles\default\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.1"
-        sha1="403df93176eaba700149abcb1220a954d5ee4849">
-        <dex dex="D:\GithubProjects\BottomDialog\sample\build\intermediates\pre-dexed\debug\classes_70e9891fe0eb1f35c733f6d0cf7d2727917b45b7.jar" />
+        sha1="ac06a2eaa93fd79076ed544e20e1e8b74688e837">
+        <dex dex="D:\GithubProjects\BottomDialog\sample\build\intermediates\pre-dexed\debug\classes_0c708b189994063d979e3d082e6bf2ecbd234789.jar" />
     </item>
 
 </items>

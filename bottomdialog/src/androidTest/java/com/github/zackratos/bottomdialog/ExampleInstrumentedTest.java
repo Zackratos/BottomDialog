@@ -1,4 +1,4 @@
-package com.github.zackratos.bottomdialog.library;
+package com.github.zackratos.bottomdialog;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
